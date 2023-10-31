@@ -35,6 +35,11 @@ const limparFormulario = () => {
     document.getElementById('bairro').value = '';
     document.getElementById('cidade').value = '';
     document.getElementById('estado').value = '';
+    document.getElementById('cpf').value = '';
+    document.getElementById('rg').value = '';
+    document.getElementById('nome').value = '';
+    document.getElementById('email').value = '';
+    document.getElementById('senha').value = '';
 
 }
 
